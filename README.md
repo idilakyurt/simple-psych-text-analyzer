@@ -3,7 +3,8 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Jupyter Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange)
 
-Psychological Rationale & Project Goal
+## 🧠 Psychological Rationale & Project Goal
+
 This project is my first attempt to create a code that introduces basic tool related to  **Computational Psychology** and **Natural Language Processing (NLP)**.
 
 As we know, our words do matter and the amount of emotionally charged words can dictate if we have a positive or a negative tone. The core goal is to assess that by using a straightforward **lexical approach**. The method mirrors initial, fundamental steps in psychological data analysis by creating specialized dictionaries (word lists) and tallying word frequencies to infer emotional states. 
